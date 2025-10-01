@@ -1,1 +1,6 @@
 urlextract
+wordcloud
+numpy
+pandas
+emoji
+seaborn
