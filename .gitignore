@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+stop_hinglish.txt
+whatsapp_analysis.ipynb
